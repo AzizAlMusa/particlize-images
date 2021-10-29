@@ -3,7 +3,7 @@
 This is an implementation of Bruno Imbrizi's tutorial on in "Interactive Particles with Three.js". Processes images into mouse interactive particles.
 
 
-## Demo
+# Demo
 
 
 
