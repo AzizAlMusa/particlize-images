@@ -16,5 +16,5 @@ For visually better results, modify the original image with more contrast/satura
 # Acknowledgements
 
 [Bruno Imbrizi's tutorial](https://tympanus.net/codrops/2019/01/17/interactive-particles-with-three-js/)\
-[Bruno Simons Threejs template](https://github.com/brunosimon/threejs-template-simple)\
+[Bruno Simon's Threejs template](https://github.com/brunosimon/threejs-template-simple)\
 [Patricio Gonzalez Vivo's noise functions](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83)
